@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberListApp</string>
+    <string name="numberlist_content_description">click to play audio</string>
+    <string name="click_to_play_audio">click to play audio</string>
+</resources>
